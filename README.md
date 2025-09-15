@@ -101,10 +101,10 @@ Important Notes:
 
 License: This repository is licensed under the MIT License. You are free to use and modify the code but must provide appropriate attribution to the authors.
 
-Repository Details: Replace the https://github.com/你的用户名 with your actual GitHub username.
+Repository Details: Replace the https://github.com/your name with your actual GitHub username.
 
 Data and Code: This repository assumes all data, except proprietary data, is accessible. It provides a method for users to upload their own well log data for reproducibility. If any additional information about data access or proprietary data needs to be specified, make sure to adjust accordingly.
 
 Code Sharing: The code is publicly available to facilitate reproducibility and reuse, with all necessary instructions for running and modifying the code included in the repository.
 
-This README ensures clarity and completeness, following the guidelines for code sharing and making your repository reproducible for other researchers. Be sure to modify sections such as the GitHub username, data access instructions, and license details to fit your actual setup.
+
