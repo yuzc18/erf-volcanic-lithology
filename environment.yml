@@ -1,0 +1,14 @@
+name: erf_metrics_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.23
+  - pandas>=2.0
+  - scikit-learn>=1.2
+  - imbalanced-learn>=0.11
+  - joblib>=1.2
+  - pip
+  - pip:
+      - tqdm>=4.65
